@@ -1,0 +1,36 @@
+H1,
+H3 {
+    text-align: center;
+}
+
+.header {
+    color: white;
+    background-color: dodgerblue;
+}
+
+.mdHeader {
+    color: white;
+    background-color: orange;
+}
+
+.ccHeader {
+    color: white;
+    background-color: mediumpurple;
+}
+
+.eiHeader {
+    color: white;
+    background-color: limegreen;
+}
+
+lable {
+    text-align: right;
+}
+
+.calc {
+    background-color: lightgray;
+}
+
+.disp {
+    background-color: darkgray;
+}
