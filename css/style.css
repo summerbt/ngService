@@ -8,6 +8,19 @@ H3 {
     background-color: dodgerblue;
 }
 
+.utility {
+    padding-top: 5px;
+}
+
+.calc,
+.disp {
+    border-radius: 5px;
+}
+
+.bottom {
+    padding-bottom: 10px;
+}
+
 .mdHeader {
     color: white;
     background-color: orange;
